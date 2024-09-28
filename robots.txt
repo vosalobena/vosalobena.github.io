@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vosalobena.github.io/sitemap/sitemap_index.txt.gz
